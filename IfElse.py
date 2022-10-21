@@ -31,8 +31,8 @@ else: #senão
 user  = input('Nome de usuário: ')
 senha = input('Senha do usuário: ')
 
-user_bd = 'Pedrucs'
-senha_bd = '123456'
+user_bd = 'bananinha'
+senha_bd = '123456789'
 
 if user_bd == user and senha_bd == senha:
     print('Você está logado, bem vindo')
